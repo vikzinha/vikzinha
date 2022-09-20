@@ -54,13 +54,12 @@
 </a>
 
 <a href="www.https://twitter.com/carvalhovitdev" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
 </a>
           
 
 <a href="https://instagram.com/vitoriacarvalho.dev" target="_blank">
 <img src="https://github.com/vikzinha/vikzinha/blob/main/Instagram_logo_2016.svg.png" style="height: 3rem"/>
-
 </a>
  
 
