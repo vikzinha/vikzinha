@@ -2,6 +2,9 @@
 
 <a href="" target="_blank"><img src="" /></a> 
 <h1 align="center">Hi!! I'm Vitória Carvalho</h1>
+<p align="Center">
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0995b2f0727c39fdf46f816c66628195.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+</p>
 <h3 align="center">About Me</h3>  
  <p>
  👩‍🎓  I'm a first-year computer science student at Universidade Paulista (UNIP).
@@ -40,26 +43,33 @@
 
 <!-- Socials --> 
 
-<h3 align="center">Let's Connect! </h3>  
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vitoriacarvalhodev/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-
-<a href="https://codepen.io/vikzinha" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
-</a>
-
-<a href="mailto:vitoriapereira.html@gmail.com" target="blank">
-<img src="https://github.com/vikzinha/vikzinha/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
-</a>
-
-<a href="https://instagram.com/vitoriacarvalho.dev" target="_blank">
-<img src="https://github.com/vikzinha/vikzinha/blob/main/Instagram_logo_2016.svg.png" style="height: 3rem"/>
-</a>
+<p align="center"> 
+  <a href="https://instagram.com/vitoriacarvalho.dev" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+ <a href="https://twitter.com/carvalhovitdev" target="_blank">
+ <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+ </a> 
  
-<a href="https://twitter.com/carvalhovitdev" target="blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
-</a>
+  <a href = "mailto:vitoriapereira.html@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vitoriacarvalhodev" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
+  <a href="https://codepen.io/vikzinha" target="_blank">
+   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
+  </a>
+ 
+</p>
 
 
-</div>
+
+
+
+
+
+
