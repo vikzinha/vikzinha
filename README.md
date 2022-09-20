@@ -45,7 +45,7 @@
 
 <a href="https://www.linkedin.com/in/vitoriacarvalhodev/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
-<a href="" target="blank">
+<a href="https://codepen.io/vikzinha" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
 </a>
 
@@ -53,15 +53,13 @@
 <img src="https://github.com/vikzinha/vikzinha/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 
-<a href="www.https://twitter.com/carvalhovitdev" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
-</a>
-          
-
 <a href="https://instagram.com/vitoriacarvalho.dev" target="_blank">
 <img src="https://github.com/vikzinha/vikzinha/blob/main/Instagram_logo_2016.svg.png" style="height: 3rem"/>
 </a>
  
+<a href="https://twitter.com/carvalhovitdev" target="blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
+</a>
 
 
 </div>
