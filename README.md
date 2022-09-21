@@ -1,6 +1,7 @@
 <!-- Intro -->
 
-<a href="" target="_blank"><img src="" /></a> 
+
+<a href="" target="_blank"><img src="https://i.pinimg.com/originals/19/6b/c4/196bc4d0b17daececc7d28188bd74eab.gif" width="100%" height="300px" /></a> 
 <h1 align="center">Hi!! I'm Vitória Carvalho</h1>
 <p align="Center">
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0995b2f0727c39fdf46f816c66628195.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
