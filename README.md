@@ -6,11 +6,11 @@
 </p>
 <h3 align="center">About Me</h3>  
  <p>
- 👩‍🎓  I'm a first-year computer science student at Universidade Paulista (UNIP).
-<br>🐱 I'm 20 y/o, go by she/her pronouns.
+ 👩‍🎓  I'm a second-year computer science student at UniSalesiano Araçatuba.
+<br>🐱 I'm 21 y/o, go by she/her pronouns.
 <br>💫 I’m a front-end web developer, currently learning UX/UI Design and VueJS.
 <br>⭐ Besides all that I love in my free time i really enjoy watching some animes and playing a few games.
-<br>👩‍💻 Constantly learning. I'm super interested in Front-end!
+<br>👩‍💻 Constantly learning. In my Github you will find a lot of projects in different Languages, some of them i've made at university. But the focus is in Front-end!
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
  </p>
  
